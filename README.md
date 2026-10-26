@@ -1,6 +1,6 @@
-# AxoraFit Journal - Support
+# SportAlertFit - Support
 
-Welcome to the support page for **AxoraFit Journal**.
+Welcome to the support page for **SportAlertFit**.
 
 If you have questions, feedback, or need help with the app, you can reach us at:
 
@@ -11,13 +11,13 @@ If you have questions, feedback, or need help with the app, you can reach us at:
 ## Frequently Asked Questions (FAQ)
 
 **1. How do I add a new exercise?**  
-Open the "Exercises" tab, tap **Add Exercise**, and fill in sets, reps, and optional notes.  
+In SportAlertFit 2.0 and later, open **Today**, tap **Add Exercise**, choose a movement from the grid, and enter sets, reps, weights, and optional notes.  
 
-**2. How can I remove ads?**  
-Upgrade to **Pro** inside the app to enjoy an ad-free experience and unlock AI workout suggestions.  
+**2. What does Pro unlock?**  
+SportAlertFit 2.0 and later contains no ads. Today’s workout logging is free. Pro unlocks previous dates, workout history, progress charts, weekly summaries, workout suggestions, and historical PDF reports. You can restore an existing purchase from **Settings**.  
 
 **3. What languages are supported?**  
-The app supports English, Turkish, Spanish, German, French, and Chinese.  
+SportAlertFit 2.0 and later includes 50 language/region options. Open **Settings > App Language** to search for a language and switch it inside the app.  
 
 ---
 
@@ -28,4 +28,4 @@ For privacy policy and terms of service, please visit:
 
 ---
 
-Thank you for using **AxoraFit Journal**! Stay consistent, stay motivated, and achieve your fitness goals.
+Thank you for using **SportAlertFit**! Stay consistent, stay motivated, and achieve your fitness goals.
